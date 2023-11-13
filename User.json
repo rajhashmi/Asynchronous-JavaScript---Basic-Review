@@ -1,0 +1,9 @@
+[
+    {"user1" : "shahid hashmi", "id" : 1, "email" : "shahidhashmiraj@gmail.com"},
+    {"user2" : "sarjan hashmi", "id" : 2, "email" : "sarjanhashmi@gmail.com"},
+    {"user3" : "muhammad firoj", "id" : 3, "emai" : "muhammadfiroj@gmail.com"},
+    {"user4" : "sarjeena hashmi", "id" : 4, "email": "sarjeenahashmi@gmail.com"},
+    {"user5" : "saida banu", "id" : 5, "email": "saidabanu@gmail.com"},
+    {"user6" : "shahistah hashmi", "id" : 6, "email": "shaistahhashmi@gmail.com"}
+    
+]
